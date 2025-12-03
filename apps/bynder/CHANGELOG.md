@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.1](https://github.com/contentful/marketplace-partner-apps/compare/bynder-assets-v1.3.0...bynder-assets-v1.3.1) (2025-12-03)
+
+
+### Bug Fixes
+
+* **deps:** bump graphql-yoga from 5.16.1 to 5.16.2 in /apps/bynder in the production-dependencies group ([#7222](https://github.com/contentful/marketplace-partner-apps/issues/7222)) ([f1a1e45](https://github.com/contentful/marketplace-partner-apps/commit/f1a1e4597a45e0f0b88be6fde7b1fb2df7f5225a))
+* **deps:** bump js-yaml from 3.14.1 to 3.14.2 in /apps/bynder ([#7356](https://github.com/contentful/marketplace-partner-apps/issues/7356)) ([419314e](https://github.com/contentful/marketplace-partner-apps/commit/419314ea34ac7c867149c768d64aa3f9f7003721))
+
 ## [1.3.0](https://github.com/contentful/marketplace-partner-apps/compare/bynder-assets-v1.2.0...bynder-assets-v1.3.0) (2025-11-05)
 
 
